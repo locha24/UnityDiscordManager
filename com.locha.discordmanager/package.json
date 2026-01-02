@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "displayName": "Simple Discord RPC",
     "description": "A wrapper for Discord Rich Presence.",
-    "unity": "6000.0.58f2",
+    "unity": "6000.0",
     "author": {
         "name": "locha",
         "email": "lbol8340@gmail.com"
